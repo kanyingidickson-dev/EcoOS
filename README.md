@@ -2,7 +2,7 @@
 
 > "What if every daily decision showed its carbon cost instantly?"
 
-**EcoOS Intelligence** is a premium, AI-powered sustainability platform that transforms environmental intention into measurable action. Built for the [**DEV Weekend Challenge: Earth Day Edition**](https://dev.to/challenges/weekend-2026-04-16), it leverages the speed and reasoning of **Google Gemini 2.5 Flash** (with automatic 2.0 Flash fallback) to deliver a unified, gamified, and deeply personalized experience.
+**EcoOS Intelligence** is a premium, AI-powered sustainability platform that transforms environmental intention into measurable action. Built for the [**DEV Weekend Challenge: Earth Day Edition**], it leverages the speed and reasoning of **Google Gemini 2.5 Flash** (with automatic 2.0 Flash fallback) to deliver a unified, gamified, and deeply personalized experience.
 
 - **Live Demo**: https://eco-os.vercel.app/
 - **DEV Post**: [https://dev.to/kanyingidickson-dev/ecoos-intelligence-reimagining-sustainability-with-ai](https://dev.to/kanyingidickson-dev/ecoos-intelligence-reimagining-sustainability-with-ai-1d4e)
